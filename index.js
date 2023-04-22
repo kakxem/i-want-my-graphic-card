@@ -3,7 +3,7 @@ const playwright = require('playwright')
 const PAGE = 'https://www.chollometro.com/categorias/tarjetas-graficas'
 const PRODUCT = '4090'
 const BELOW_PRICE = 1500
-const BROWSERS = ['chromium', 'firefox']
+const BROWSERS = ['chromium']
 const NUMBER_OF_PAGES = 10
 
 const scraper = async () => {
