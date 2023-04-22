@@ -14,7 +14,7 @@ P.S: That comment was made by Copilot, don't blame me.
 ### Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/kakxem/i-want-my-graphic-card
 ```
 
 ### Install the dependencies
